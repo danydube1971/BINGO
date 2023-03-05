@@ -1,7 +1,7 @@
 # BINGO
 Un jeu de BINGO (75 boules) dans un terminal
 
-Le script est un programme Python pour un jeu de bingo à 75 chiffres. Le script affiche une grille de bingo avec toutes 
+Le script simule un boulier à 75 chiffres. Le script affiche une grille de bingo avec toutes 
 les boules possibles numérotées de B1 à O75. Le script tire ensuite des boules aléatoirement à partir de cette liste 
 jusqu'à ce que toutes les boules aient été tirées ou que l'utilisateur choisisse de quitter le jeu en appuyant sur "Q".
 
