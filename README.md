@@ -1,5 +1,5 @@
 # BINGO
-Un jeu de BINGO (75 boules) dans un terminal
+Un jeu de BINGO qui simule un boulier (75 boules) dans un terminal
 
 Le script simule un boulier à 75 chiffres. Le script affiche une grille de bingo avec toutes 
 les boules possibles numérotées de B1 à O75. Le script tire ensuite des boules aléatoirement à partir de cette liste 
